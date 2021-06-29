@@ -1,5 +1,7 @@
 const express = require("express");
 
+const React = require("react");
+
 const ejs = require("ejs");
 
 const bodyparser = require("body-parser");
